@@ -1,2 +1,2 @@
 # very-basic-resume
-https://github.com/yadnika10/very-basic-resume/blob/main/index.html
+https://yadnika10.github.io/very-basic-resume/
